@@ -1,11 +1,13 @@
 
 m
-java:S1192#"PDefine a constant instead of duplicating this literal "redirect:/users" 3 times.(Ñ“é8îË‚”å1
+java:S1192)"PDefine a constant instead of duplicating this literal "redirect:/users" 3 times.(Ñ“é8«œÊ­å1
+g
+java:S1192 "JDefine a constant instead of duplicating this literal "user-form" 4 times.(õ±Ëõ8«œÊ­å1
 c
-java:S1192"FDefine a constant instead of duplicating this literal "users" 6 times.(ô‡•Î8îË‚”å1
+java:S1192"FDefine a constant instead of duplicating this literal "users" 6 times.(ô‡•Î8¬œÊ­å1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í°ü“å1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¹œÊ­å1
 b
-java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(Æ·€Åùÿÿÿÿ8ƒÌ‚”å1
-]
-java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(•üÌã8†Ì‚”å1
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(Å•Èßıÿÿÿÿ8¿œÊ­å1
+b
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(¦ŸÔäøÿÿÿÿ8ÃœÊ­å1

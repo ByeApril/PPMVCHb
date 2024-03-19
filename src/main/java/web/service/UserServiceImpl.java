@@ -36,10 +36,7 @@ public class UserServiceImpl implements UserService {
     @Override
     @Transactional
     public void updateUser(User user) {
-        User managedUser = entityManager.merge(user);
-        managedUser.setName(user.getName());
-        managedUser.setAge(user.getAge());
-        managedUser.setEmail(user.getEmail());
+        entityManager.merge(user);
     }
 
 
